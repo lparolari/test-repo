@@ -1,6 +1,6 @@
 # test-repo
 
-- [Build & Install](#buildinstall)
+- [Build & Install](#build--install)
 
 gadgds
 
