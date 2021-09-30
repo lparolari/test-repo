@@ -15,7 +15,7 @@ Flickr30k
 | ---------------------------------- | -------- | ---------- |
 | Align2Ground                       | 11.5     | 71.0       |
 | KAC Net                            | 37.7     | -          |
-| Localziation w\o Training Examples | 50.5     | -          |
+| Localization w\o Training Examples | 50.5     | -          |
 | **Ours**                           |          |            |
 | max-class                          | 38.4     | 75.6       |
 | prop                               | 40.5     | 74.5       |
@@ -27,7 +27,7 @@ ReferIt
 | ---------------------------------- | -------- | ---------- |
 | Align2Ground                       | -        | -          |
 | KAC Net                            | 15.83    | -          |
-| Localziation w\o Training Examples | 26.48    | -          |
+| Localization w\o Training Examples | 26.48    | -          |
 | **Ours**                           |          |            |
 | max-class                          | 31.7     | 58.6       |
 | prop                               | **32.0** | 58.5       |
