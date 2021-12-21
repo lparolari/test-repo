@@ -32,3 +32,11 @@ ReferIt
 | max-class                          | 31.7     | 58.6       |
 | prop                               | **32.0** | 58.5       |
 | prop, freq                         | 29.1     | 57.8       |
+
+TEST TABLE
+
+---
+a: 1
+b: 2
+c: tre
+---
