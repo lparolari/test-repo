@@ -56,3 +56,6 @@ a: 1
 b: 2
 c: tre
 ---
+
+
+What if i link here an issue? #1
